@@ -1,0 +1,82 @@
+{
+  "create": {
+    "title": "Guerra Mundial Z",
+    "overview": "Um ex-investigador da ONU viaja pelo mundo tentando conter uma pandemia que transforma humanos em zumbis extremamente agressivos.",
+    "company": "Paramount Pictures",
+    "release_year": 2013,
+    "featured": false,
+    "cover": "images/guerra_mundial_z.png"
+  },
+  "exterminio": {
+    "title": "Extermínio",
+    "overview": "Após um vírus altamente contagioso se espalhar pelo Reino Unido, um pequeno grupo de sobreviventes tenta escapar de uma sociedade devastada.",
+    "company": "Fox Searchlight Pictures",
+    "release_year": 2002,
+    "featured": false,
+    "cover": "images/exterminio.png"
+  },
+  "madrugada_dos_mortos": {
+    "title": "Madrugada dos Mortos",
+    "overview": "Sobreviventes de um apocalipse zumbi se refugiam em um shopping center enquanto enfrentam hordas de mortos-vivos do lado de fora.",
+    "company": "Universal Pictures",
+    "release_year": 2004,
+    "featured": false,
+    "cover": "images/madrugada_dos_mortos.png"
+  },
+  "zumbilandia": {
+    "title": "Zumbilândia",
+    "overview": "Quatro sobreviventes atravessam os Estados Unidos enfrentando zumbis com humor e estratégias incomuns.",
+    "company": "Columbia Pictures",
+    "release_year": 2009,
+    "featured": false,
+    "cover": "images/zumbilandia.png"
+  },
+  "resident_evil_o_hospede_maldito": {
+    "title": "Resident Evil: O Hóspede Maldito",
+    "overview": "Uma equipe militar e uma agente especial enfrentam uma inteligência artificial fora de controle e hordas de mortos-vivos em um laboratório subterrâneo.",
+    "company": "Screen Gems",
+    "release_year": 2002,
+    "featured": false,
+    "cover": "images/resident_evil_1.png"
+  },
+  "invasao_zumbi": {
+    "title": "Invasão Zumbi",
+    "overview": "Durante uma viagem de trem na Coreia do Sul, passageiros lutam para sobreviver a um surto repentino de zumbis.",
+    "company": "Next Entertainment World",
+    "release_year": 2016,
+    "featured": false,
+    "cover": "images/invasao_zumbi.png"
+  },
+  "todo_mundo_quase_morto": {
+    "title": "Todo Mundo Quase Morto",
+    "overview": "Um homem tenta reconquistar sua namorada enquanto enfrenta um surto de zumbis em Londres, misturando comédia e terror.",
+    "company": "Universal Pictures",
+    "release_year": 2004,
+    "featured": false,
+    "cover": "images/todo_mundo_quase_morto.png"
+  },
+  "eu_sou_a_lenda": {
+    "title": "Eu Sou a Lenda",
+    "overview": "Um cientista aparentemente é o último sobrevivente em Nova York após um vírus devastador transformar a população em criaturas hostis.",
+    "company": "Warner Bros. Pictures",
+    "release_year": 2007,
+    "featured": false,
+    "cover": "images/eu_sou_a_lenda.png"
+  },
+  "a_noite_dos_mortos_vivos": {
+    "title": "A Noite dos Mortos-Vivos",
+    "overview": "Um grupo de pessoas se refugia em uma casa isolada enquanto mortos-vivos começam a surgir e cercar o local.",
+    "company": "Continental Distributing",
+    "release_year": 1968,
+    "featured": false,
+    "cover": "images/noite_dos_mortos_vivos.png"
+  },
+  "exterminio_2": {
+    "title": "Extermínio 2",
+    "overview": "Seis meses após o surto inicial, forças militares tentam restaurar a ordem, mas o vírus volta a se espalhar de forma devastadora.",
+    "company": "Fox Atomic",
+    "release_year": 2007,
+    "featured": false,
+    "cover": "images/exterminio_2.png"
+  }
+}
